@@ -1,2 +1,2 @@
 # Digimons-Search
-Projeto Front-End utilizando html, css e JavaScript.
+Projeto Front-End utilizando html, css e JavaScript.s
